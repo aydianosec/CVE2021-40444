@@ -1,0 +1,1 @@
+Look at the email name and submit that in the CTF's flag format.
